@@ -4,8 +4,8 @@
 > C, C++
 
 ### How to start
-> $ cd Tetris/Debug
-$ make
+> $ cd Tetris/Debug,
+$ make,
 $ ./Tetris
 
 #### Licence
