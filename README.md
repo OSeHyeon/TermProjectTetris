@@ -3,10 +3,10 @@
 ## Language
 > C, C++
 
-### How to start
+## How to start
 > $ cd Tetris/Debug,
 $ make,
 $ ./Tetris
 
-#### Licence
+## Licence
 > Linux kernel
