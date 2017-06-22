@@ -1,12 +1,19 @@
 # TermProjectTetris
 
 ## Language
-> C, C++
+C
+
+C++
 
 ## How to start
-> $ cd Tetris/Debug,
-$ make,
+$ cd Tetris/Debug
+
+$ make
+
 $ ./Tetris
 
 ## Licence
-> Linux kernel
+Linux kernel
+
+## GitHub Page
+https://osehyeon.github.io/
